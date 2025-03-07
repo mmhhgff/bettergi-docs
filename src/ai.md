@@ -1,4 +1,4 @@
----
+怎么改变自动拾取频率
 title: AI问答
 icon: question
 order: 88
